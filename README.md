@@ -19,6 +19,7 @@ folders:-
 
 Links:-
 1. fer2013 dataset http://www-etud.iro.umontreal.ca/~goodfeli/fer2013.html
+2. video: https://www.youtube.com/watch?v=hp3dzTW523I
 
 Steps to run:-
 1. To record the video from webcam run record_video.py
